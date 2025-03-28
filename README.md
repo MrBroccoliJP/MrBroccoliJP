@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm MrBroccoliJP 🌱  
+# 👋 Hey there! I'm MrBroccoliJP [aka João Fernandes]🌱  
 
 ### 🚀 Maker | Junior Developer | Hardware Enthusiast  
 
