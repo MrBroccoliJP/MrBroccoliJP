@@ -2,7 +2,16 @@
 
 ### 🚀 Maker | Junior Developer | Hardware Enthusiast  
 
-I'm a passionate **embedded systems developer** and **software engineer**, building projects that blend **hardware and software** to create smart, efficient, and innovative solutions. From **IoT gadgets** to **FPGA simulations** and **automation systems**, I love tackling technical challenges and bringing ideas to life.  
+I'm a passionate **junior developer**, building projects that blend **hardware and software** to create smart, efficient, and innovative solutions. From **IoT gadgets** to **FPGA simulations** and **automation systems**, I love tackling technical challenges and bringing ideas to life.  
+<br>
+<center>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrBroccoliJP&show_icons=true&layout=compact&theme=vision-friendly-dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBroccoliJP&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</center>
+
+<br>
 
 ---
 
