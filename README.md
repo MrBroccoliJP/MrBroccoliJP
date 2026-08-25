@@ -2,7 +2,7 @@
 
 # Hi, I'm João Fernandes 👋
 
-### Maker · Junior Developer · Hardware Enthusiast
+### Maker · Developer · Hardware Enthusiast
 
 I build practical projects where **software meets hardware** — from smart displays and<br>
 IoT devices to FPGA simulations, custom electronics, and automation tools.
