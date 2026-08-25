@@ -103,8 +103,8 @@ IoT devices to FPGA simulations, custom electronics, and automation tools.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MrBroccoliJP&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="João's GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBroccoliJP&layout=compact&theme=github_dark&hide_border=true" alt="João's most used languages">
+<img height="165" src="./profile/stats.svg" alt="João's GitHub stats">
+<img height="165" src="./profile/top-langs.svg" alt="João's most used languages">
 
 </div>
 
