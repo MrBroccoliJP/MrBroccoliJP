@@ -49,9 +49,9 @@ IoT devices to FPGA simulations, custom electronics, and automation tools.
       <p><b>Tech:</b> C/C++ · Arduino · Wi-Fi · Sensors · LED Displays · PCB Design · 3D Printing</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🥤 <a href="https://github.com/MrBroccoliJP/FPGA-Beverage-Dispenser">FPGA Beverage Dispenser</a></h3>
-      <p>An FPGA-powered beverage dispenser simulation with inventory tracking and multiple operating modes.</p>
-      <p><b>Tech:</b> VHDL · Quartus · FPGA Development · State Machines · Embedded Systems</p>
+      <h3>🎞️ <a href="https://github.com/MrBroccoliJP/FilmTagger">FilmTagger</a></h3>
+      <p>A browser-based workflow for tagging film scans, editing image metadata, renaming files, and exporting organized archives.</p>
+      <p><b>Tech:</b> HTML · CSS · Vanilla JavaScript · EXIF · JSZip</p>
     </td>
   </tr>
   <tr>
@@ -68,10 +68,17 @@ IoT devices to FPGA simulations, custom electronics, and automation tools.
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🥤 <a href="https://github.com/MrBroccoliJP/FPGA-Beverage-Dispenser">FPGA Beverage Dispenser</a></h3>
+      <p>An FPGA-powered beverage dispenser simulation with inventory tracking and multiple operating modes.</p>
+      <p><b>Tech:</b> VHDL · Quartus · FPGA Development · State Machines · Embedded Systems</p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🛍️ Interactive In-Store Displays <sub>FNAC</sub></h3>
       <p>A responsive kiosk system that presents products, pricing, and videos while adapting automatically to the connected screen.</p>
       <p><b>Tech:</b> JavaScript · HTML · CSS · AutoHotkey</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🖥️ Store Display Automation <sub>FNAC</sub></h3>
       <p>Software installation and power-management automation for store displays, reducing repetitive setup work.</p>
